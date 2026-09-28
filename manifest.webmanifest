@@ -1,0 +1,14 @@
+{
+  "name": "Magical Athlete Companion",
+  "short_name": "MA Companion",
+  "description": "Record Magical Athlete games, leagues and tournaments at the table.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#431b25",
+  "theme_color": "#431b25",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
