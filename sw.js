@@ -1,5 +1,5 @@
-const CACHE = "magical-athlete-v0.41.0";
-const PRECACHE = ["./assets/index-CxlDSY3M.css","./assets/index-DGszuySQ.js","./icon-192.png","./icon-512.png","./index.html","./manifest.webmanifest"];
+const CACHE = "magical-athlete-v0.41.1";
+const PRECACHE = ["./assets/index-Cgjz_gx-.css","./assets/index-D5PrsjkY.js","./icon-192.png","./icon-512.png","./index.html","./manifest.webmanifest"];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(PRECACHE)).then(() => self.skipWaiting()));
 });
