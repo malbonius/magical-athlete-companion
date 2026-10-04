@@ -2,11 +2,13 @@
 
 An unofficial companion for playing **Magical Athlete** and **Second Wind** at the table. Record races and points, manage decks and drafts, organise leagues and tournaments, and browse cards and statistics.
 
-**[Open the app](https://malbonius.github.io/magical-athlete-companion/)** · Current build: **v0.55.0**
+**[Open the app](https://malbonius.github.io/magical-athlete-companion/)** · Current build: **v0.56.0**
 
 The app supports physical play: you resolve movement and powers at the table, then record what happened. It works on desktop and mobile, supports light and dark themes, and can be installed for offline use.
 
-## Latest update — v0.55.0 · Teammates & Power Gained
+## Latest update — v0.56.0 · Leg Selection
+
+- Racer statistics show which game legs each racer was selected for, with counts, shares and average racer points. Defaults to four-leg games; other game lengths are available separately. Existing saved starting line-ups contribute.
 
 - Racer teammate statistics show saved team pairings and team points across drafted, random and manual assignments.
 - Copied and selected powers are combined as **Power gained** in statistics.
