@@ -2,11 +2,20 @@
 
 An unofficial companion for playing **Magical Athlete** and **Second Wind** at the table. Record races and points, manage decks and drafts, organise leagues and tournaments, and browse cards and statistics.
 
-**[Open the app](https://malbonius.github.io/magical-athlete-companion/)** · Current build: **v0.56.0**
+**[Open the app](https://malbonius.github.io/magical-athlete-companion/)** · Current build: **v0.57.1**
 
 The app supports physical play: you resolve movement and powers at the table, then record what happened. It works on desktop and mobile, supports light and dark themes, and can be installed for offline use.
 
-## Latest update — v0.56.0 · Leg Selection
+## Latest update — v0.57.1 · Twist Artwork
+
+- All 13 official Second Wind Twist card fronts now use the updated artwork.
+
+From v0.57.0:
+
+- Adds **Action Andy’s Fan Expansion**: 27 custom racers with card artwork and searchable power text. Turn on **Include custom content** in Collection → Sets to browse it, or select the set when building a racer pool.
+- Leaf’s Nepo Baby is now **Nepo Baby (Leaf)**. Existing results stay linked, and names you’ve already customised are kept.
+
+From the previous release:
 
 - Racer statistics show which game legs each racer was selected for, with counts, shares and average racer points. Defaults to four-leg games; other game lengths are available separately. Existing saved starting line-ups contribute.
 
