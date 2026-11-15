@@ -2,13 +2,13 @@
 
 An unofficial companion for playing **Magical Athlete** and **Second Wind** at the table. Record races and points, manage decks and drafts, organise leagues and tournaments, and browse cards and statistics.
 
-**[Open the app](https://malbonius.github.io/magical-athlete-companion/)** · Current build: **v0.57.3**
+**[Open the app](https://malbonius.github.io/magical-athlete-companion/)** · Current build: **v0.57.6**
 
 The app supports physical play: you resolve movement and powers at the table, then record what happened. It works on desktop and mobile, supports light and dark themes, and can be installed for offline use.
 
-## Latest update — v0.57.3 · Second Wind Racer Artwork
+## Latest update — v0.57.6 · Second Wind Artwork
 
-- All 36 official Second Wind racer card fronts now use the supplied updated print-and-play artwork.
+- Uses the newer artwork for Streaker and Magical Athlete alongside Cheatah, Nemesis, Show-Off and Soulmate. The other 30 Second Wind racers keep their v0.57.2 artwork.
 
 From v0.57.2:
 
